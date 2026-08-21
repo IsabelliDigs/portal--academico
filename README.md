@@ -12,7 +12,7 @@
 <h2> Matrícula</h2>
 
 <p> Bem-vindo ao Sistema de matrícula </p>
-<button> Realizar matrícula</button>
+<button> Solicitar matrícula</button>
 
 </body>
 </html>
